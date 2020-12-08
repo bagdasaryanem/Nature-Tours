@@ -158,7 +158,7 @@ nav {
 .title-heading {
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 10rem;
+  margin-bottom: 5rem;
   color: rgba(0, 0, 0, 0.7);
 }
 .title-heading h3 {
@@ -279,13 +279,13 @@ nav {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   grid-gap: 2.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 .adventure-grid-item p {
   color: rgba(0, 0, 0, 0.7);
 }
 
-.begin-adveture{
+.begin-adveture {
   margin-top: 20px;
 }
 
