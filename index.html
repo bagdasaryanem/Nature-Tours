@@ -137,7 +137,7 @@
         <div class="container">
           <div class="title-heading">
             <h3>Let the</h3>
-            <h1>Adveture begin</h1>
+            <h1>Adventure begin</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Distinctio, corporis?
@@ -157,14 +157,15 @@
               </p>
             </div>
           </div>
-          <a class="btn" href="#">Book your adventure</a>
         </div>
       </section>
     </main>
     <footer>
       <ul class="links">
         <li>
-          <a href="https://www.linkedin.com/in/artur-bagdasaryan/" target="_blank"
+          <a
+            href="https://www.linkedin.com/in/artur-bagdasaryan/"
+            target="_blank"
             ><img
               src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"
           /></a>
